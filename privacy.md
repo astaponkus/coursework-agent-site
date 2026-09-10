@@ -18,6 +18,12 @@ Mobile information will not be shared, sold, rented, or disclosed to third parti
 
 Users may opt out of SMS messages at any time by replying STOP. Users may reply HELP for assistance.
 
+Coursework Agent is a private, personal-use application operated by its owner for the owner's own coursework and career-development management.
+
+The owner voluntarily provides and configures their own mobile phone number to receive SMS messages from Coursework Agent. By configuring the mobile number for Coursework Agent's messaging service, the owner expressly consents to receive SMS messages related to coursework reminders, assignment deadlines, study progress, scheduled events, and related application notifications.
+
+Coursework Agent is not a public messaging service and does not send messages to third-party users or purchased contact lists. The sole intended SMS recipient is the owner of the application.
+
 ## Data Use
 
 Information collected by Coursework Agent is used only as necessary to operate and improve the personal coursework management application and provide requested reminders and functionality.
