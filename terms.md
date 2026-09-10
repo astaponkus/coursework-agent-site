@@ -20,6 +20,14 @@ The user voluntarily provides their mobile phone number when configuring Coursew
 
 Consent to receive SMS messages is not associated with the purchase of any goods or services.
 
+Coursework Agent is a private, personal-use application. The sole intended SMS recipient is the owner of the application.
+
+The owner intentionally configures their own mobile phone number to receive messages from Coursework Agent. This configuration constitutes the owner's express consent to receive SMS messages from the application.
+
+Messages may include coursework reminders, assignment and exam deadlines, study-progress notifications, scheduled-event reminders, and responses to messages sent to Coursework Agent.
+
+SMS consent may be withdrawn at any time by replying **STOP**. Reply **HELP** for assistance.
+
 ## Opt-Out
 
 You may stop receiving SMS messages at any time by replying **STOP** to a message.
