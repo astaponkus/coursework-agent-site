@@ -30,7 +30,7 @@ After opting out, you will no longer receive SMS messages unless you opt in agai
 
 For assistance, reply **HELP** to a message or contact:
 
-**[YOUR BACKUP EMAIL HERE]**
+**astaponkus1@gmail.com**
 
 ## Carrier Disclaimer
 
