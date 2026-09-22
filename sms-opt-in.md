@@ -45,8 +45,6 @@ The sole intended user of Coursework Agent may enroll their own mobile number be
   <button type="button">Yes, enroll me in SMS notifications</button>
 </form>
 
-> **Demonstration notice:** This public page documents the SMS enrollment and consent process used for Coursework Agent compliance review. The displayed button does not submit or store information through this public website. SMS enrollment is enabled only by the application owner after explicitly providing and consenting to use their own mobile number.
-
 ## How Consent Is Recorded
 
 Coursework Agent is not a public messaging service. The sole intended SMS recipient is the owner/operator of the application.
