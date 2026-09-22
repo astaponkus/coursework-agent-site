@@ -1,44 +1,69 @@
-# Coursework Agent SMS Opt-In
+# Coursework Agent SMS Enrollment
 
-**Last Updated: September 10, 2026**
+**Last Updated: September 22, 2026**
 
-## About the SMS Program
+## About Coursework Agent SMS
 
-Coursework Agent is a private, personal-use coursework management application operated by its owner for the owner's own coursework and career-development management.
+Coursework Agent is a private, personal-use application operated by its owner to help manage coursework, deadlines, study progress, scheduled events, personal tasks, goals, and related reminders.
 
-The application is not a public messaging service. The sole intended SMS recipient is the owner/operator of the application.
+SMS enrollment is optional. The application can be used without consenting to SMS messages.
 
-## How SMS Consent Is Given
+## SMS Enrollment
 
-The owner explicitly opts in to receive SMS messages by configuring their own mobile phone number in the application's messaging configuration before SMS messaging is enabled.
+The sole intended user of Coursework Agent may enroll their own mobile number below to document consent to receive automated SMS notifications from Coursework Agent.
 
-The mobile number is intentionally configured by the owner and is not collected from the public, purchased from a third party, or obtained from a contact list.
+<form>
+  <p>
+    <label for="phone"><strong>Mobile phone number</strong></label><br>
+    <input type="tel" id="phone" name="phone" placeholder="(555) 555-5555">
+  </p>
 
-No other individuals are enrolled in the messaging program.
+  <p>
+    <label>
+      <input type="checkbox" name="sms-consent">
+      I agree to receive recurring automated SMS messages from Coursework Agent about coursework, assignments, exams, deadlines, study progress, scheduled events, personal tasks, goals, reminders, and related application notifications.
+    </label>
+  </p>
 
-## Types of Messages
+  <p>
+    Message frequency varies. Message and data rates may apply.
+    Reply <strong>HELP</strong> for help.
+    Reply <strong>STOP</strong> to opt out.
+  </p>
 
-Messages may include:
+  <p>
+    SMS consent is optional and is not a condition of purchasing goods or services.
+  </p>
 
-- Coursework and assignment reminders
-- Exam and deadline reminders
-- Study-progress notifications
-- Scheduled-event reminders
-- Responses to messages sent to Coursework Agent
+  <p>
+    By enrolling, I acknowledge the
+    <a href="privacy.html">Privacy Policy</a>
+    and
+    <a href="terms.html">Terms & Conditions</a>.
+  </p>
 
-Message frequency varies based on upcoming coursework, deadlines, scheduled events, and user activity.
+  <button type="button">Yes, enroll me in SMS notifications</button>
+</form>
 
-Message and data rates may apply.
+> **Demonstration notice:** This public page documents the SMS enrollment and consent process used for Coursework Agent compliance review. The displayed button does not submit or store information through this public website. SMS enrollment is enabled only by the application owner after explicitly providing and consenting to use their own mobile number.
 
-## Opting Out
+## How Consent Is Recorded
 
-The user may withdraw SMS consent at any time by replying **STOP**.
+Coursework Agent is not a public messaging service. The sole intended SMS recipient is the owner/operator of the application.
+
+The owner explicitly provides their own mobile number and affirmatively consents to SMS messaging before SMS delivery is enabled. No checkbox is selected by default, and SMS consent is separate from use of the application.
+
+The mobile number is not purchased, obtained from a contact list, or collected from third parties.
+
+## Opting Out and Help
+
+SMS consent may be withdrawn at any time by replying **STOP**.
 
 Reply **HELP** for assistance.
 
-## Privacy and Terms
+Questions may also be directed to **astaponkus1@gmail.com**.
 
-For additional information, see the:
+## Privacy and Terms
 
 - [Coursework Agent Privacy Policy](privacy.html)
 - [Coursework Agent Terms & Conditions](terms.html)

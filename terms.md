@@ -1,14 +1,14 @@
 # Coursework Agent Terms & Conditions
 
-**Last Updated: September 10, 2026**
+**Last Updated: September 22, 2026**
 
 ## About Coursework Agent
 
-Coursework Agent is a private, personal-use coursework management application designed to help its user manage assignments, exams, study plans, and academic deadlines.
+Coursework Agent is a private, personal-use assistant designed to help its owner manage coursework, deadlines, study progress, scheduled events, personal tasks, goals, and related reminders.
 
 ## SMS Messaging Program
 
-Coursework Agent may send SMS messages containing coursework reminders, deadline notifications, study reminders, and other messages related to the user's coursework.
+Coursework Agent may send SMS messages containing coursework reminders, deadline notifications, study reminders, scheduled-event reminders, personal-task and goal reminders, and related application notifications.
 
 Message frequency varies depending on upcoming coursework, deadlines, and user activity.
 

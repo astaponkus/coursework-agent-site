@@ -1,8 +1,8 @@
 # Coursework Agent Privacy Policy
 
-**Last Updated: September 10, 2026**
+**Last Updated: September 22, 2026**
 
-Coursework Agent is a private, personal-use coursework management application designed to send SMS reminders and notifications about assignments, exams, study plans, and academic deadlines.
+Coursework Agent is a private, personal-use assistant designed to help its owner manage coursework, deadlines, study progress, scheduled events, personal tasks, goals, and related reminders.
 
 ## Information Collected
 
@@ -10,11 +10,11 @@ Coursework Agent may use information voluntarily provided by the user, including
 
 ## SMS Messaging
 
-The user's mobile phone number is used solely to send coursework reminders, notifications, and related responses requested through Coursework Agent.
+The user's mobile phone number is used solely to send requested reminders, notifications, and related responses from Coursework Agent.
 
 Message frequency varies depending on upcoming coursework and user activity. Message and data rates may apply.
 
-Mobile information will not be shared, sold, rented, or disclosed to third parties or affiliates for marketing or promotional purposes. SMS opt-in and consent information will not be shared with third parties for marketing purposes.
+Mobile information, including SMS opt-in data and consent information, will not be sold, rented, or shared with third parties or affiliates for marketing or promotional purposes.
 
 Users may opt out of SMS messages at any time by replying STOP. Users may reply HELP for assistance.
 
